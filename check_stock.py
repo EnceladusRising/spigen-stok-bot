@@ -1,4 +1,4 @@
-import requests
+0import requests
 from bs4 import BeautifulSoup
 import smtplib
 from email.mime.text import MIMEText
@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 import os
 import sys
 
-PRODUCT_URL  = "https://www.spigen.com.tr/arama/PE2109"
+PRODUCT_URL  = "https://www.spigen.com.tr/arama/ACH02589"
 PRODUCT_NAME = "Spigen ACH02589 45W + USB-C Cable"
 
 GMAIL_USER        = os.environ["GMAIL_USER"]
