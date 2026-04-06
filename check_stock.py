@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 import os
 import sys
 
-PRODUCT_URL  = "https://www.spigen.com.tr/arama/ACH02589"
+PRODUCT_URL  = "https://www.spigen.com.tr/arama/PE2109"
 PRODUCT_NAME = "Spigen ACH02589 45W + USB-C Cable"
 
 GMAIL_USER        = os.environ["GMAIL_USER"]
